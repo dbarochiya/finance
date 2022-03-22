@@ -1,3 +1,3 @@
 # finance
 
-This repo holds all scripts related to finance/market`
+This repo holds all scripts related to finance/market.
